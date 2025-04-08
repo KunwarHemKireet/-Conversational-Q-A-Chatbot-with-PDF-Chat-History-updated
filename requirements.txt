@@ -1,7 +1,8 @@
 transformers>=4.40.0
 accelerate>=0.28.0
 sentence-transformers>=2.6.1
-torch>=2.0.0
+torch==2.1.2
+
 streamlit
 huggingface-hub
 langchain
